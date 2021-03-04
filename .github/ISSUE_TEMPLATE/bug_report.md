@@ -1,9 +1,7 @@
 ---
 name: Bug report
 about: 不具合を報告する
-title: ''
 labels: bug
-assignees: ''
 
 ---
 
